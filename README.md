@@ -10,9 +10,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 I'm currently interested in/excited about:
 
-+ React
-+ JavaScript best practice
-+ Object Oriented Programming
++ Game Development 
 
 ----
 
@@ -22,9 +20,8 @@ I'm currently interested in/excited about:
 
 |               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
+|**C#**                            | ![done][done]     |                        |                  |
+
 
 ----
 
@@ -38,20 +35,16 @@ I'm currently interested in/excited about:
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Dec 2019   | [Getting Started With Redux]                                    | [Dan Abramov] - [egghead.io]                |
-| ![Completed][Completed]     | Dec 2019   | [The Next.js Handbook]                                          | [Flavio Copes]                              |
-| ![In Progress][In Progress] |            | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
-| ![Soon][Soon]               |            | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
+| ![In Progress][In Progress] |            | [How to program in C#]                                          | [Asbjørn Thirslund] - [Brackeys]                |
 
 [//]: # (Reference links to courses)
 
-[Getting Started With Redux]: https://egghead.io/courses/getting-started-with-redux
-[The Next.js Handbook]: https://www.freecodecamp.org/news/the-next-js-handbook/
+[How to program in C#]: https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51
 
 [//]: # (Reference links to tutors)
 
-[Dan Abramov]: https://twitter.com/dan_abramov
-[Kyle Simpson]: https://twitter.com/getify
+[Asbjørn Thirslund]: https://github.com/ATBrackeys
+[Brackeys]: https://twitter.com/BrackeysTweet
 
 
 ### Paths
