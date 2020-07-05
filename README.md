@@ -6,6 +6,16 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 ----
 
+## Interests
+
+I'm currently interested in/excited about:
+
++ React
++ JavaScript best practice
++ Object Oriented Programming
+
+----
+
 ## Skills
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
@@ -61,11 +71,3 @@ A complete log of my development skills, learning, resources, highlights, intere
 [ReactDOM]: https://reactdom.com
 
 ----
-
-## Interests
-
-I'm currently interested in/excited about:
-
-+ React
-+ JavaScript best practice
-+ Object Oriented Programming
